@@ -1,9 +1,12 @@
-# React + Vite
+# Simple React App from Scratch
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+What you'll learn
 
-Currently, two official plugins are available:
+- Learn to build a ReactJS website with ViteJS
+- Create a quick POC (proof of concept)
+- Learn to build React MVP projects
+- Learn how to code a basic JavaScript application with the best technologies out there
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# web-app
+# Link for course 
+
+- [courselink](https://www.udemy.com/course/build-a-simple-react-app-from-scratch)
